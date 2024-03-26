@@ -1,0 +1,19 @@
+
+
+header, main, footer {
+    height: 150px;
+    border: 1px solid black;
+
+}
+header { 
+    background-color: yellow; margin-bottom: 15px;
+}
+
+main {
+    background-color: gray; margin-bottom: 15px;
+}
+
+footer {
+    background-color:cornflowerblue ;
+}
+

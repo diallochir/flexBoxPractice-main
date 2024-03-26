@@ -1,0 +1,43 @@
+
+body {
+    display: flex;
+}
+
+.main, .footer {
+    flex-direction: row;
+    border: 5px solid black;
+}
+
+
+header { 
+    background-color: yellow;
+    flex-direction: row;
+    height: 900px;
+    margin: 25px;
+    width: 250px;
+    border: 2px solid;
+    float: left;
+}
+
+main {
+    background-color: gray;
+    flex-direction: column;
+    height: 250px;
+    margin: 25px;
+    width: 1000px;
+    margin-right: 250x;
+    border: 2px solid;
+    
+}
+
+footer {
+    background-color:cornflowerblue ;
+    flex-direction: column;
+    height: 250px;
+    margin-right: 250x;
+    width: 1000px;
+    border: 2px solid
+
+}
+
+
