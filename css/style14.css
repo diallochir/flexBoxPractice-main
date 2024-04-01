@@ -10,7 +10,7 @@ body {
 .boxvertical { 
     background-color: yellow;
     flex-direction: row;
-    height: 700px;
+    height: 600px;
     width: 20%;
     border: 1px solid;
 }
@@ -18,7 +18,7 @@ body {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-    height: 700px;
+    height: 600px;
     width: 50%;
 }
 
@@ -41,7 +41,7 @@ body {
 .boxvertical2 { 
     background-color: hotpink;
     flex-direction: row;
-    height: 700px;
+    height: 600px;
     width: 20%;
     border: 1px solid;
 }
