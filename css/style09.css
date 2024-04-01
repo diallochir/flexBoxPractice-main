@@ -1,7 +1,7 @@
 
 
 header, footer {
-    height: 250px;
+    height: 200px;
     border: 1px solid black;
 
 }
@@ -33,7 +33,7 @@ header {
 .section1, .section2, .section3, .section4 {
     background-color: violet;
     border: solid 1px;
-    height: 65px;
+    height: 60px;
     flex-basis: 15%;
     margin-left: 20px;
     margin-bottom: 20px;
@@ -51,7 +51,7 @@ header {
     background-color: green;
     border: solid 2px;
     border-radius: 50%; 
-    height: 65px;
+    height: 60px;
     width: 30px;
 }
 
@@ -59,7 +59,7 @@ header {
 main {
     display: flex; 
     margin-bottom: 30px;
-    height: 250px;
+    height: 200px;
 
 }
 .sec1 {

@@ -44,7 +44,7 @@ section {
 
 main {
     display: flex;
-    height: 300px;
+    height: 200px;
     margin-bottom: 20px;
 
 }
@@ -52,7 +52,7 @@ main {
     flex-basis: 20%;
     background-color: gray;
     border: 1px solid ;
-    height: 300px;
+    height: 200px;
     margin-left: 0px
 }
 .sec2 {
@@ -65,6 +65,6 @@ main {
 
 footer {
     background-color:cornflowerblue ;
-    height: 300px;
+    height: 200px;
 }
 
