@@ -1,0 +1,33 @@
+header, footer {
+    border: 1px solid black;
+
+}
+header { 
+    background-color: yellow; 
+    margin-bottom: 30px;
+    height: 200px;
+}
+.first {
+    display: flex;
+    justify-content:end;
+    margin-bottom: 20px;
+    justify-content: end;
+}
+
+section {
+    background-color: violet;
+    border: solid 1px;
+    height: 60px;
+    flex-basis: 15%;
+    margin-left: 20px;
+
+}
+
+.section5 {
+    display: flex;
+    border-color: white;
+    background-color: white;
+    height: 60px;
+    flex-direction: row-reverse;
+
+}

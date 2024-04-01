@@ -1,26 +1,15 @@
-
-
 body {
     display: flex;
     justify-content: space-between;
 }
 
-
-.boxvertical { 
-    background-color: yellow;
-    flex-direction: row;
-    height: 900px;
-    width: 20%;
-    border: 2px solid;
-}
 .boxhorizontal {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
     height: 900px;
-    width: 70%;
+    width: 50%;
 }
-
 .box1, .box2{
     width: 100%;
     border: 2px solid;
@@ -33,7 +22,3 @@ body {
 .box2 {
     background-color: gray;
 }
-
-
-
-
