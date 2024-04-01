@@ -17,7 +17,7 @@ header {
 
 .section1 {
     background-color: violet;
-    border: solid 2px;
+    border: solid 1px;
     height: 60px;
     margin-bottom: 20px;
     flex-basis: 15%;

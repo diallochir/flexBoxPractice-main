@@ -11,7 +11,7 @@ header {
     display:flex;
     justify-content:space-between;
     align-items: center;
-    border: solid 2px;
+    border: solid 1px;
     height: 200px;
     margin-top: 10px;
     flex-direction: row-reverse;
@@ -50,7 +50,7 @@ header {
 }
 .search {
     background-color: green;
-    border: solid 2px;
+    border: solid 1px;
     border-radius: 50%; 
     height: 60px;
     width: 30px;
